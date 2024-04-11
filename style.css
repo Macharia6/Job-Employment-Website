@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #000000;
+  padding: 20px;
+  text-align: center;
+  
+  
+}
+
+input[type="text"], button {
+  padding: 10px;
+  font-size: 20px;
+  }
+
+#jobListings {
+  padding: 20px;
+  ;
+}
+
+.jobItem {
+  border: 1px solid #42d615;
+  border-radius: 5px;
+  padding: 10px;
+  
+  
+}
+
+.jobItem:hover {
+  background-color: #ca4009;
+  cursor: pointer
+
+  
+}
